@@ -1,13 +1,15 @@
-### Olá! Eu sou o Iano Maciel. 
+### Hello! My name is Iano Maciel. 
  
  <!-- GIT STATS -->
- <div>
-  <a href="https://github.com/IanoMaciel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IanoMaciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoMaciel&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanoMaciel&show_icons=true&theme=radical)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoMaciel&layout=compact&langs_count=7&theme=radical"/>
+ 
+ <!-- Snake animation -->
+
  
 <!-- DEVICON -->
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -21,7 +23,15 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 
-<!-- CONTATOS -->
+<!-- contato -->
+
+ ### Connect whit me
+ 
+ <div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/iano-maciel-52a7401ba/">
+   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+ </div>
 
 <!--
 **IanoMaciel/IanoMaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
