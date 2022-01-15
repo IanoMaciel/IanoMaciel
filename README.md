@@ -5,10 +5,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanoMaciel&show_icons=true&theme=highcontrast)
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoMaciel&layout=compact&langs_count=7&theme=highcontrast"/>
  
-<!-- Snake animation -->
-![snake gif](https://github.com/IanoMaciel/IanoMaciel/blob/output/github-contribution-grid-snake.gif)
-
-<!-- css -->
 
 ## Skills
 <!-- DEVICON -->
