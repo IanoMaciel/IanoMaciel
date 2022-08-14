@@ -14,9 +14,7 @@
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
