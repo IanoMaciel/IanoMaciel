@@ -10,7 +10,6 @@
 <!-- DEVICON -->
 <div display="inline-block">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
