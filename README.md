@@ -10,22 +10,41 @@
 <!-- DEVICON -->
 ### Programming language and frameworks
 <div display="inline-block">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+ <!--Typescript-->
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+ <!--Javascript-->
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ <!--React-->
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <!--NodeJs-->
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<!--Java-->
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<!--Spring-->
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+<!--C language-->
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
 </div>
 
+### Database
+<div display="inline-block">
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
+### Versioning System
+<div display="inline-block">
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+
+### Operational system
+<div display="inline-block">
+  <img width="60px" height="60px" style="margin: 0 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
  
 <!-- contato -->
-
  ## Social Links
  <div display="flex">
     <a style="margin: 0 5px;" href="https://www.linkedin.com/in/iano-maciel-52a7401ba/">
