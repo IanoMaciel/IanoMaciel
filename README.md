@@ -7,7 +7,6 @@
  
 
 ## Skills
-<!-- DEVICON -->
 ### Programming language and frameworks
 <div display="inline-block">
  <!--Typescript-->
