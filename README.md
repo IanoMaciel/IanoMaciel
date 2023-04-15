@@ -1,15 +1,8 @@
-# Hello! I'm Maciel. 
+# Hello, I'm Iano Maciel, Software Engineer.
 
-## Tech Stack
-
-```typescript
- let IanoMaciel = {
-     pronouns: ['he', 'him'],
-     tech: ['JavaScript', 'TypeScript', 'NodeJs', 'React', 'React Native', 'Java', 'PHP', 'C Language'],
-     versionControlSystem: ['Git', 'GitHub', 'GitLab'],
-     dataBase: ['MongoDB', 'MySQL', 'PostgreSQL'],
- }
-```
+<div align="center">
+ <img width="60%" height="300px" src="https://user-images.githubusercontent.com/71051791/230789758-3ef069e3-edcd-4562-bd58-7f445095d69b.gif"/> 
+</div>
 
 ## GitHub Analytics e Activity Graph
 <div align="center">  
@@ -20,6 +13,3 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IanoMaciel&theme=gotham)
 
-## Software Engineering
-
-<img width="100%" height="400px" src="https://user-images.githubusercontent.com/71051791/230789758-3ef069e3-edcd-4562-bd58-7f445095d69b.gif"/> 
