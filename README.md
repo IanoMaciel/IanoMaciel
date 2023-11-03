@@ -1,15 +1,41 @@
-# Hello, I'm Iano Maciel, Software Engineer.
+## Olá, eu sou Iano Maciel
+Olá! Sou Engenheiro de Software formado pelo Instituto de Ciências Exatas e Tecnologia (ICET) da Universidade Federal do Amazonas (UFAM). Possuo um profundo interesse em desenvolver software tanto para a web quanto para dispositivos móveis. Minha trajetória abrange uma ampla gama de habilidades, incluindo Java, Spring Boot, Amazon Web Services, JavaScript moderno, TypeScript, Node.js, React, React Native, a criação de RESTful API e ferramentas de controle de versão e automação. Estou entusiasmado em aplicar meu conhecimento e fazer contribuições valiosas para projetos inovadores.
 
-<div align="center">
- <img width="50%" height="50%" src="https://user-images.githubusercontent.com/71051791/230789758-3ef069e3-edcd-4562-bd58-7f445095d69b.gif"/> 
+- 👨‍💻 Desenvolvedor de Software
+- 📲 Contate-me no whatsapp: (92) 986338449
+- 📧 Contate-me por email: ianomaciel685@icloud.com
+- 🔗 Portfólio: https://www.ianodev.com/
+
+## Linguagens e Frameworks
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Iano Maciel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Iano Maciel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Iano Maciel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Iano Maciel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Iano Maciel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Iano Maciel-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Iano Maciel-Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Iano Maciel-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+  <img align="center" alt="Iano Maciel-Adonisjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg">
+  <img align="center" alt="Iano Maciel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Iano Maciel-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Iano Maciel-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
-## GitHub Analytics and Activity Graph
-<div align="center">  
-  <img width="49%" height="50%" src="https://github-readme-stats.vercel.app/api?username=IanoMaciel&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Iano Maciel" /> 
- 
-  <img width="41%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanoMaciel&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+## Banco de Dados
+<div style="display: inline_block"><br>
+  <img align="center" alt="Iano Maciel-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Iano Maciel-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Iano Maciel-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Iano Maciel-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg">
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IanoMaciel&theme=gotham)
-
+## DevOps
+<div style="display: inline_block"><br>
+  <img align="center" alt="Iano Maciel-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Iano Maciel-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="Iano Maciel-CircleCI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain-wordmark.svg">
+  <img align="center" alt="Iano Maciel-Jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Iano Maciel-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+</div>        
