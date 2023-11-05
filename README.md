@@ -1,4 +1,4 @@
-## Olá, eu sou Iano Maciel
+## Olá, seja bem vindo ao meu perfil do GitHub
 Olá! Sou Engenheiro de Software formado pelo Instituto de Ciências Exatas e Tecnologia (ICET) da Universidade Federal do Amazonas (UFAM). Possuo um profundo interesse em desenvolver software tanto para a web quanto para dispositivos móveis. Minha trajetória abrange uma ampla gama de habilidades, incluindo Java, Spring Boot, Amazon Web Services, JavaScript moderno, TypeScript, Node.js, React, React Native, a criação de RESTful API e ferramentas de controle de versão e automação. Estou entusiasmado em aplicar meu conhecimento e fazer contribuições valiosas para projetos inovadores.
 
 - 👨‍💻 Desenvolvedor de Software
