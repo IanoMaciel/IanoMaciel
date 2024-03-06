@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo ao meu perfil do GitHub
-Olá! Sou Engenheiro de Software formado pelo ICET/UFAM (2023). Possuo interesse em Desenvolvimento de Software para Web e Mobile, com ênfase no back-end utilizando Node.js e Java com Spring Boot. Além disso, possuo conhecimentos Java, Spring Boot, Amazon Web Services, JavaScript moderno, TypeScript, Node.js, React, React Native, a criação de API REST e ferramentas de controle de versão e automação. Estou entusiasmado em aplicar meu conhecimento e fazer contribuições valiosas para projetos inovadores.
+Olá! Sou Engenheiro de Software formado pelo ICET/UFAM (2023). Possuo interesse em Desenvolvimento de Software para Web e Mobile, com ênfase no back-end utilizando Node.js e Laravel. Além disso, possuo conhecimentos Java, Spring Boot, Amazon Web Services, JavaScript moderno, TypeScript, React, React Native, a criação de API REST e ferramentas de controle de versão e automação. Estou entusiasmado em aplicar meu conhecimento e fazer contribuições valiosas para projetos inovadores.
 
 - 👨‍💻 Desenvolvedor de Software
 - 📲 Contate-me no whatsapp: (92) 986338449
