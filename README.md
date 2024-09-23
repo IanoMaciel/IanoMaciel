@@ -1,10 +1,10 @@
 ## Olá, seja bem vindo ao meu perfil do GitHub
-Olá! Sou Engenheiro de Software formado pelo ICET/UFAM (2023). Possuo interesse em Desenvolvimento de Software para Web e Mobile, com ênfase no back-end utilizando Node.js e Laravel. Além disso, possuo conhecimentos Java, Spring Boot, Amazon Web Services, JavaScript moderno, TypeScript, React, React Native, API REST e ferramentas de controle de versão e automação. Estou entusiasmado em aplicar meu conhecimento e fazer contribuições valiosas para projetos inovadores.
+Olá! Sou Engenheiro de Software, formado pelo ICET/UFAM (2023). Tenho interesse em Desenvolvimento de Software para Web e Mobile, com ênfase no back-end utilizando Node.js e Laravel. Também possuo conhecimentos em Java, Spring Boot, Amazon Web Services, JavaScript moderno, TypeScript, React, React Native, APIs REST, além de ferramentas de controle de versão e automação. Atualmente, sou mestrando em Engenharia de Software Profissional pela Universidade Federal do Pampa.
 
 - 👨‍💻 Desenvolvedor de Software
 - 📲 Contate-me no whatsapp: (92) 986338449
 - 📧 Contate-me por email: ianomaciel685@icloud.com
-- 🔗 Portfólio: https://www.ianodev.com/
+<!-- 🔗 Portfólio: https://www.ianodev.com/ -->
 
 ## Linguagens e Frameworks
 
